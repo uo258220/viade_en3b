@@ -5,6 +5,7 @@
 # VIADE EN3B
 
 Miguel Cuesta Martínez
+Change in new_feature2
 Change made in branch new_feature
 
 This repository contains a skeleton of the VIADE project.
